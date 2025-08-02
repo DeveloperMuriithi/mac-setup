@@ -39,20 +39,17 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
 
 ## What Macbook do I have?
 
-I am using a 2020 13" Macbook Pro for work and a 2021 14" Macbook Pro for personal stuff.
+I am using a 2020 13" Macbook Pro for work and personal stuff.
 
-The specs for both machines:
+The specs for the machine:
 * 2020
-  * Apple M1
-* 2021
-  * Apple M1 Pro
+  * 2.3 GHz Quad-Core Intel Core i7
 * 16GB RAM
 * 500GB SSD
 
-Read more about these Macbooks here:
+Read more about this Macbooks here:
 
-* [2020](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html)
-* [2021](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
+* [2020](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.3-quad-core-13-2020-4-thunderbolt-3-ports-scissor-specs.html)
 
 ## OS Settings
 
@@ -103,9 +100,7 @@ I don't use the Dock at all. It takes up screen space, and I can use RayCast to 
 
 ## Quick Launching
 
-The built in spotlight search is a bit slow for me and usually has web search results as the default instead of apps or folders on my machine.
-
-I recently switched from [Alfred](https://www.alfredapp.com/) to [RayCast](https://www.raycast.com/). I'm really liking it so far.
+[RayCast](https://www.raycast.com/). 
 
 ```sh
 brew install raycast
