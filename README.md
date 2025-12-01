@@ -37,19 +37,6 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## What Macbook do I have?
-
-I am using a 2020 13" Macbook Pro for work and personal stuff.
-
-The specs for the machine:
-* 2020
-  * 2.3 GHz Quad-Core Intel Core i7
-* 16GB RAM
-* 500GB SSD
-
-Read more about this Macbooks here:
-
-* [2020](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i7-2.3-quad-core-13-2020-4-thunderbolt-3-ports-scissor-specs.html)
 
 ## OS Settings
 
@@ -86,17 +73,6 @@ I don't like the new Desktop, Stage Manager or Widget features in Sonoma, so I d
   * Show Path Bar
   * Show Tab Bar
 
-### Dock
-
-I don't use the Dock at all. It takes up screen space, and I can use RayCast to launch apps and AltTab to switch between apps. I make the dock as small as possible and auto hide it.
-
-* System Preferences
-  * Desktop & Dock
-    * Size -> Small as possible
-    * Position on screen -> Left
-    * Automatically hide and show the Dock -> Yes
-    * Animate opening applications -> No
-    * Show suggested and recent apps in the Dock -> No
 
 ## Quick Launching
 
@@ -135,7 +111,6 @@ RayCast has this feature built in, but I am still using a separate app for this.
 
 I use [rectangle](https://rectangleapp.com/) to move and resize windows using keyboard shortcuts. I used to use [spectacle](https://www.spectacleapp.com/), but rectangle is more regularly maintained and allows me to use all of the same keyboard shortcuts as spectacle.
 
-I highly recommend installing this and memorizing the keyboard shortcuts. Fluid and seamless window management is key to being productive while coding.
 
 Search for `rectangle` in RayCast `brew search` or:
 
@@ -168,6 +143,9 @@ Search for `hiddenbar` in RayCast `brew search` or:
 ```sh
 brew install hiddenbar
 ```
+
+## MISC!
+
 
 ### System Stats Widgets
 
